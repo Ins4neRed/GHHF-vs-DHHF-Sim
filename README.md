@@ -1,8 +1,12 @@
 # GHHF vs DHHF Sim
 
 ## This simulation provides insight into how the following funds react during major financial events. 
-
 4 Default Scenario's are baked in, and feel free to change the crash parameters, realism effects and chart layers to test any drawdown scenario you want. 
+
+## How to Run?
+* Navigate to this site https://stackblitz.com/fork/react
+* Paste the App.js code from the reposity into the App.js in StackBlitz
+* Paste the package.json code the reposity into the package.json in StackBlitz
 
 ## Here's everything modelled in the simulator:
 
