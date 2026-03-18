@@ -5,7 +5,7 @@
 
 ## How to Run?
 * Navigate to this site https://stackblitz.com/fork/react
-* Throughout the process you may get two prompts to install dependancies, click install for both
+* Throughout the process you may get two prompts to install dependencies, click install for both
 * Paste the App.js code from the repository into the App.js in StackBlitz
 * Paste the package.json code the repository into the package.json in StackBlitz
 
