@@ -8,6 +8,7 @@
 * Throughout the process you may get two prompts to install dependencies, click install for both
 * Paste the App.js code from the repository into the App.js in StackBlitz
 * Paste the package.json code the repository into the package.json in StackBlitz
+* Press "ctrl + s" then refresh
 
 ## Here's everything modelled in the simulator:
 
