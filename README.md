@@ -14,6 +14,7 @@
 
 ### Fund Structure (from Betashares product page + PDS)
 * Underlying portfolio mirrors DHHF: 37% AU equities, 41% US equities, 16% Developed ex-US, 6% Emerging Markets
+* GHHF: 37% AU equities, 44% International (IEMG/BGBL), 19% HGBL
 * 4,000+ securities globally diversified, 63% international and unhedged
 * LVR band of 30-40%, actively monitored, rebalances to 35% target when breached
 * Gearing multiple varies between ~1.43x and ~1.67x of NAV
