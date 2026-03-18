@@ -5,8 +5,8 @@
 
 ## How to Run?
 * Navigate to this site https://stackblitz.com/fork/react
-* Paste the App.js code from the reposity into the App.js in StackBlitz
-* Paste the package.json code the reposity into the package.json in StackBlitz
+* Paste the App.js code from the repository into the App.js in StackBlitz
+* Paste the package.json code the repository into the package.json in StackBlitz
 
 ## Here's everything modelled in the simulator:
 
